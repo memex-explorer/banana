@@ -83,6 +83,7 @@ function (Settings) {
       'column',
       'ticker',
       'bettermap',
+      'bettermap_multi',
       'query',
       'terms',
       'rangeFacet',
